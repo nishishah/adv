@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="cloud@jinesh-assignment3.database.windows.net" uuid="e58c1bae-3146-437c-b15f-bb4f3b0335ce">
+      <database-info product="Microsoft SQL Server" version="12.00.600" jdbc-version="4.2" driver-name="Microsoft JDBC Driver 6.4 for SQL Server" driver-version="6.4.0.0" family="MSSQL" exact-version="12.0.600">
+        <extra-name-characters>$#@</extra-name-characters>
+        <identifier-quote-string>&quot;</identifier-quote-string>
+      </database-info>
+      <case-sensitivity plain-identifiers="mixed" quoted-identifiers="mixed" />
+      <secret-storage>master_key</secret-storage>
+      <user-name>jinesh</user-name>
+      <introspection-schemas>cloud:dbo</introspection-schemas>
+    </data-source>
+  </component>
+</project>
