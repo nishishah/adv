@@ -9,7 +9,7 @@ import redis
 import hashlib
 # from werkzeug.utils import secure_filename
 
-app = Flask(__name__, static_url_path='', template_folder='static')
+app = Flask(__name__, static_url_path='', template_folder='static') 
 
 server = 'nishishah3.database.windows.net'
 database = 'Q3'
